@@ -34,4 +34,6 @@ aside{
   float:left;
 }
 
-aside img{ max-wigth:100%;}
+aside img{
+  max-width:100%;
+}
